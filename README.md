@@ -1,2 +1,2 @@
 # Makima
-Project related to opeation management of trucks and machines
+Project related to operation management of trucks and machines
